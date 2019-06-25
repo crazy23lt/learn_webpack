@@ -1,0 +1,13 @@
+body{
+    background-color: pink;
+    color: olivedrab;
+}
+.img{
+    background-image: url(http://localhost:8888images/782b5842e5c71f89b0cb7449854f5fc5.jpg);
+    width: 1920px;
+    height: 1080;
+}#study {
+  width: 300px;
+  height: 300px;
+  background-color: #000;
+}
